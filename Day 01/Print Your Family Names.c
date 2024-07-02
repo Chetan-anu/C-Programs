@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
-    printf("Chetan"\n "damyamthi"\n "polarao"\n);
-    return 0;
+    printf("Chetan\ndamyamthi\npolarao\n");
+//    return 0;
 }
