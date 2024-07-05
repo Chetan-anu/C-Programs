@@ -4,6 +4,6 @@ int main()
     int age;
     age=17;
     printf("age%d\n");
-    printf("sizeof%dis%Dbytes",age sizeof(age));
+    printf("sizeof %d is %d bytes", age, sizeof(age));
     return 0;
 }
