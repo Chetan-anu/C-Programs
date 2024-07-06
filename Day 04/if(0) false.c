@@ -5,8 +5,7 @@ int main()
     printf("Hi\n");
     if (i)
     {
-      printf("Condition True if Block: Namaste\n");
-
+        printf("Condition True if Block: Namaste\n");
     }
     printf("Itu rara\n");
     return 0;
