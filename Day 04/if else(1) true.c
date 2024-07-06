@@ -7,7 +7,7 @@ int main()
     {
         printf("Condition Is True If Block: Namaste\n");
     }
-    else(i)
+	else
     {
         printf("Condition Is False If Block: You suck\n");
     }
