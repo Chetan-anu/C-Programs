@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int i=0
+    int i=0;
     printf("Hi\n");
-}
+
   if (i)
   {
     printf("Condition Is True If Block: You are Doing Good\n");
@@ -14,3 +14,4 @@ int main()
   }
   printf("Who are you\n");
   return 0;
+}
