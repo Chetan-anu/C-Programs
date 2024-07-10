@@ -1,12 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    printf("Enter Your Age=");
-    scanf("%d", &age);
 
     char Name[100];
     printf("Enter Your Name\n Name=");
     scanf("%s", &Name);
+     
+     int age;
+     printf("Enter Your Age\n Age=");
+     scanf("%d", &age);
 
     float height;
     printf("Enter Your Height\n Height=");
